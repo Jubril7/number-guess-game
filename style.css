@@ -1,0 +1,21 @@
+body{
+    background-color: darkgray;
+}
+
+h1{
+    color: Red;
+    font-variant: small-caps;
+    text-align: center;
+}
+.text{
+    font-size: 22px;
+}
+.form{
+    text-align: center;
+    font-size: xx-large;
+}
+.guessField{
+    width: 65px;
+    height: 23px;
+}
+
